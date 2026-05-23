@@ -41,7 +41,7 @@ restaurant-management-backend/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/restaurant-management-backend.git
+git clone https://github.com/vanshapple/restaurant-management-backend.git
 cd restaurant-management-backend
 ```
 
@@ -196,7 +196,7 @@ Features:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Vansh K Bhanushali**
 Backend Developer Intern Candidate
 [GitHub](https://github.com/your-username) 
 [LinkedIn](https://linkedin.com/in/your-profile)
