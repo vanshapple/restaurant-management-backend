@@ -198,5 +198,5 @@ Features:
 
 **Vansh K Bhanushali**
 Backend Developer Intern Candidate
-[GitHub](https://github.com/your-username) 
-[LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/vanshapple) 
+[LinkedIn](https://linkedin.com/in/vanshbhanushali)
